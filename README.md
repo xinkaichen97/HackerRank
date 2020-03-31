@@ -1,2 +1,2 @@
 # HackerRank-Data-Science-Challenges
-Some HackerRank challenges about time series analysis, association rule learning, and so on.
+Some HackerRank challenges about time series analysis (ARIMA, SARIMAX), association rule learning (Apriori), and so on.
